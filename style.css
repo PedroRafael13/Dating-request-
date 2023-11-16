@@ -1,0 +1,32 @@
+body {
+  background-color: #E883B3;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 50px;
+  color: #484C6E;
+  cursor: pointer;
+}
+
+#nao {
+  font-size: 24px;
+  color: #333;
+  background-color: #7B6FA5;
+  border: none;
+  border-radius: 10px;
+  position: relative;
+}
+
+img {
+  width: 400px;
+  margin-top: 15px;
+}
